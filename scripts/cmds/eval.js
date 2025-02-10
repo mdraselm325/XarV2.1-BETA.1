@@ -15,7 +15,7 @@ export const XarV2 = {
     usePrefix: false
   },
   onStart: async ({ message, args, event, api, msg,  usersData, threadsData, userModel, threadModel, XarV2 }) => {
-    const allowedUsers = ["1472439428"];
+    const allowedUsers = ["5167977878"];
 
     if (!allowedUsers.includes(event.from.id.toString())) {
       return message.reply("You don't have permission to use this command.");

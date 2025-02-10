@@ -1,5 +1,5 @@
 {
-  "botToken": "",
+  "botToken": "7432895089:AAGwdnEtHt0qWPgW3R-JyVXdS0EN7oPoRu0",
   "botPrefix": "/",
   "DATABASE": {
     "sqlite": {
@@ -14,9 +14,9 @@
     }
   },
   "ADMIN_IDS": [
-    1472439428
+    5167977878
   ],
-  "OWNER_ID": 1472439428,
+  "OWNER_ID": 5167977878,
   "skip": {
     "events": ["no"],
     "commands": ["no"]
